@@ -11,15 +11,11 @@ Building web projects and growing toward Software Engineering & AI.
 
 <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,wordpress,vscode" />
 
-### Projects
-
-<a href="https://github.com/tukpairah/Decentrathon-6.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tukpairah&repo=Decentrathon-6.0&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tukpairah/aroken-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tukpairah&repo=aroken-web&theme=tokyonight&hide_border=true" />
-</a>
-
 ### Current Setup
 
 MacBook Air M3 · macOS · VS Code
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tukpairah/tukpairah/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tukpairah/tukpairah/output/snake.svg" />
+</picture>
