@@ -18,7 +18,7 @@ BSc Computer Science
 
 ### Current Setup
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/macbook-dark.svg" /><img alt="MacBook Air M3" src="assets/macbook-light.svg" height="24" /></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/mac-air-dark.svg" /><img alt="MacBook Air M3" src="assets/mac-air-light.svg" height="24" /></picture><br>
 LG UltraFine 27" 4K
 
 <a href="mailto:tukpay.rahat@gmail.com"><img src="assets/email.svg" height="24" /></a><a href="https://t.me/macintoshin"><img src="assets/telegram.svg" height="24" /></a><a href="https://instagram.com/tukpayy"><img src="assets/instagram.svg" height="24" /></a><a href="https://discord.com/users/736899245293961226"><img src="assets/discord.svg" height="24" /></a><a href="https://steamcommunity.com/profiles/76561199111895557/"><img src="assets/steam.svg" height="24" /></a>
