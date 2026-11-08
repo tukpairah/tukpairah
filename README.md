@@ -13,7 +13,9 @@ Building web projects and growing toward Software Engineering & AI.
 
 ### Languages
 
-🇰🇿 Kazakh — Native · 🇷🇺 Russian — Native · 🇬🇧 English — C1
+🇰🇿 Kazakh — Native<br>
+🇷🇺 Russian — Native<br>
+🇬🇧 English — C1
 
 ### Current Setup
 
