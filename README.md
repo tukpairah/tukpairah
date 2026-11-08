@@ -23,4 +23,4 @@ MacBook Air M3
 
 ### Contacts
 
-<a href="mailto:tukpay.rahat@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" align="center" /> Email</a> &nbsp;|&nbsp; <a href="https://t.me/macintoshin"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="18" align="center" /> Telegram</a> &nbsp;|&nbsp; <a href="https://instagram.com/tukpayy"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="18" align="center" /> Instagram</a>
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:tukpay.rahat@gmail.com) &nbsp;|&nbsp; [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/macintoshin) &nbsp;|&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/tukpayy)
