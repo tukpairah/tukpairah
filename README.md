@@ -2,8 +2,6 @@
 
 **Rakhat Tukpay** — Computer Science student at Heriot-Watt University. Growing toward ML & AI.
 
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" /> [Email](mailto:tukpay.rahat@gmail.com) &nbsp;|&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16" /> [Telegram](https://t.me/macintoshin) &nbsp;|&nbsp; <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" /> [Instagram](https://instagram.com/tukpayy)
-
 ### Education
 
 **Heriot-Watt University**<br>
@@ -22,3 +20,7 @@ BSc Computer Science
 ### Current Setup
 
 MacBook Air M3
+
+### Contacts
+
+<a href="mailto:tukpay.rahat@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" align="center" /> Email</a> &nbsp;|&nbsp; <a href="https://t.me/macintoshin"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="18" align="center" /> Telegram</a> &nbsp;|&nbsp; <a href="https://instagram.com/tukpayy"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="18" align="center" /> Instagram</a>
