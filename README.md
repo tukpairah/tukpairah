@@ -9,7 +9,7 @@ BSc Computer Science
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,wordpress,vscode" />
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,wordpress,vscode" height="48" /> <img src="assets/claude.svg" height="48" />
 
 ### Languages
 
@@ -23,4 +23,4 @@ MacBook Air M3
 
 ### Contacts
 
-<a href="mailto:tukpay.rahat@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" align="center" /> Email</a> &nbsp;|&nbsp; <a href="https://t.me/macintoshin"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="18" align="center" /> Telegram</a> &nbsp;|&nbsp; <a href="https://instagram.com/tukpayy"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="18" align="center" /> Instagram</a>
+<a href="mailto:tukpay.rahat@gmail.com"><img src="assets/email.svg" height="24" /></a><a href="https://t.me/macintoshin"><img src="assets/telegram.svg" height="24" /></a><a href="https://instagram.com/tukpayy"><img src="assets/instagram.svg" height="24" /></a>
