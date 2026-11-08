@@ -3,7 +3,6 @@
 **Rakhat Tukpay** — Computer Science student at Heriot-Watt University. Growing toward ML & AI.
 
 ### Education
-
 **Heriot-Watt University**<br>
 BSc Computer Science 
 
