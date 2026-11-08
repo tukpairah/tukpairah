@@ -13,13 +13,14 @@ BSc Computer Science
 
 ### Languages
 
-🇰🇿 Kazakh — Native<br>
 🇷🇺 Russian — Native<br>
+🇰🇿 Kazakh — Native<br>
 🇬🇧 English — C1
 
 ### Current Setup
 
-MacBook Air M3
+MacBook Air M3<br>
+LG UltraFine 27" 4K
 
 ### Contacts
 
