@@ -23,8 +23,8 @@ LG UltraFine 27" 4K
 
 ### Contacts
 
-<a href="mailto:tukpay.rahat@gmail.com"><img src="assets/email.svg" height="24" /></a><a href="https://t.me/macintoshin"><img src="assets/telegram.svg" height="24" /></a><a href="https://instagram.com/tukpayy"><img src="assets/instagram.svg" height="24" /></a>
+<a href="mailto:tukpay.rahat@gmail.com"><img src="assets/email.svg" height="24" /></a><a href="https://t.me/macintoshin"><img src="assets/telegram.svg" height="24" /></a><a href="https://instagram.com/tukpayy"><img src="assets/instagram.svg" height="24" /></a><a href="https://discord.com/users/736899245293961226"><img src="assets/discord.svg" height="24" /></a><a href="https://steamcommunity.com/profiles/76561199111895557/"><img src="assets/steam.svg" height="24" /></a>
 
 ---
 
-<p align="center"><i>Stay hungry. Stay foolish.</i></p>
+<p align="center"><i>Stay hungry. Stay foolish.</i><br>— Steve Jobs</p>
