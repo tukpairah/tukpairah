@@ -24,3 +24,7 @@ LG UltraFine 27" 4K
 ### Contacts
 
 <a href="mailto:tukpay.rahat@gmail.com"><img src="assets/email.svg" height="24" /></a><a href="https://t.me/macintoshin"><img src="assets/telegram.svg" height="24" /></a><a href="https://instagram.com/tukpayy"><img src="assets/instagram.svg" height="24" /></a>
+
+---
+
+<p align="center"><i>Stay hungry. Stay foolish.</i></p>
