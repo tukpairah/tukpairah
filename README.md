@@ -1,4 +1,4 @@
-# Think Different.
+# Think Different
 
 **Rakhat Tukpay** — Computer Science student at Heriot-Watt University. Growing toward ML & AI.
 
