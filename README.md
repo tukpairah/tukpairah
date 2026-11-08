@@ -2,9 +2,7 @@
 
 **Rakhat Tukpay** — Computer Science student at Heriot-Watt University. Growing toward ML & AI.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tukpay.rahat@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/macintoshin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tukpayy)
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" /> [Email](mailto:tukpay.rahat@gmail.com) &nbsp;|&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16" /> [Telegram](https://t.me/macintoshin) &nbsp;|&nbsp; <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" /> [Instagram](https://instagram.com/tukpayy)
 
 ### Education
 
