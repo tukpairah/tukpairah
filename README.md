@@ -9,7 +9,8 @@ Building web projects and growing toward Software Engineering & AI.
 
 ### Education
 
-[![Heriot-Watt University](https://img.shields.io/badge/Heriot--Watt_University-BSc_Computer_Science_·_Expected_2028-0B2D5B?style=flat)](https://www.hw.ac.uk)
+**Heriot-Watt University**<br>
+BSc Computer Science · Expected 2028
 
 ### Tech Stack
 
@@ -23,4 +24,4 @@ Building web projects and growing toward Software Engineering & AI.
 
 ### Current Setup
 
-MacBook Air M3 · macOS · VS Code
+MacBook Air M3
