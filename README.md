@@ -11,6 +11,10 @@ Building web projects and growing toward Software Engineering & AI.
 
 <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,wordpress,vscode" />
 
+### Languages
+
+🇰🇿 Kazakh — Native · 🇷🇺 Russian — Native · 🇬🇧 English — C1
+
 ### Current Setup
 
 MacBook Air M3 · macOS · VS Code
