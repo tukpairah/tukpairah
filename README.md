@@ -7,6 +7,10 @@ Building web projects and growing toward Software Engineering & AI.
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/macintoshin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tukpayy)
 
+### Education
+
+[![Heriot-Watt University](https://img.shields.io/badge/Heriot--Watt_University-BSc_Computer_Science_·_Expected_2028-0B2D5B?style=flat)](https://www.hw.ac.uk)
+
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,wordpress,vscode" />
