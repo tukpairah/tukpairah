@@ -14,8 +14,3 @@ Building web projects and growing toward Software Engineering & AI.
 ### Current Setup
 
 MacBook Air M3 · macOS · VS Code
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tukpairah/tukpairah/output/snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tukpairah/tukpairah/output/snake.svg" />
-</picture>
