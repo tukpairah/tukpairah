@@ -1,7 +1,6 @@
 # Think Different.
 
-**Rakhat Tukpay** — Computer Science student at Heriot-Watt University, Kazakhstan.
-Building web projects and growing toward Software Engineering & AI.
+**Rakhat Tukpay** — Computer Science student at Heriot-Watt University. Growing toward ML & AI.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tukpay.rahat@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/macintoshin)
@@ -10,7 +9,7 @@ Building web projects and growing toward Software Engineering & AI.
 ### Education
 
 **Heriot-Watt University**<br>
-BSc Computer Science · Expected 2028
+BSc Computer Science 
 
 ### Tech Stack
 
